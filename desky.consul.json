@@ -2,5 +2,6 @@
   "ui":true,
   "retry_join":["192.168.56.2"],
   "advertise_addr": "192.168.56.1",
+  "client_addr": "0.0.0.0",
   "data_dir": "/tmp/consul"
 }
